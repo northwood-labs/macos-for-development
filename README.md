@@ -1,2 +1,3 @@
-# macos-for-development
-Setting up macOS for software development.
+# macOS for development
+
+[Wiki →](https://github.com/northwood-labs/macos-for-development/wiki)
